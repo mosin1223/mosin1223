@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohsin Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-<img align="right" alt ="coding" width ="400px" src ="https://github.com/mosin1223/mosin1223/blob/main/New-PNC-Animated-Banners.gif">
+<img align="right" alt ="coding" width ="300px" src ="https://github.com/mosin1223/mosin1223/blob/main/github.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mosin1223&label=Profile%20views&color=0e75b6&style=flat" alt="mosin1223" /> </p>
 

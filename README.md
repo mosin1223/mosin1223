@@ -33,21 +33,6 @@
 - 📫 How to reach me **cadetmohsan@gmail.com**
 
 - ⚡ Fun Fact: **⚙ I don't just write functions—I design experiences.**
-
----
-
-
-<h3 align="center">Connect with me:</h3>
-<p align ="center">
-<a href="https://dev.to/mohsin_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohsin_ali" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mohsin-ali-54a9b2319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin-ali-54a9b2319" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/user:31021240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:31021240" height="30" width="40" /></a>
-<a href="https://kaggle.com/mohsin109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohsin109" height="30" width="40" /></a>
-<a href="https://fb.com/mohsin ali avesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsin ali avesi" height="30" width="40" /></a>
-<a href="https://instagram.com/mohsi_109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsi_109" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/tmng1q4m2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tmng1q4m2x" height="30" width="40" /></a>
-</p>
-
 ---
 <h3 align="center">🛠️ Favorite Tools</h3>
 <p align="center">
@@ -56,9 +41,12 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="55" height="55" style="margin: 0 20px;"/>
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="55" height="55" style="margin: 0 20px;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55" style="margin: 0 20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Canva_Logo.svg" alt="Canva" width="55" height="55" style="margin: 0 20px;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Pinterest-logo.svg" alt="Pinterest" width="55" height="55" style="margin: 0 20px;"/>
+  <!-- Updated Canva and Pinterest logos -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" alt="Canva" width="55" height="55" style="margin: 0 20px;"/>
+  <img src="https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/pinterest.svg" alt="Pinterest" width="55" height="55" style="margin: 0 20px;"/>
 </p>
+
+
 
 
 ---
@@ -134,6 +122,19 @@
       </td>
     </tr>
   </table>
+</p>
+
+
+---
+<h3 align="center">Connect with me:</h3>
+<p align ="center">
+<a href="https://dev.to/mohsin_ali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="mohsin_ali" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mohsin-ali-54a9b2319" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohsin-ali-54a9b2319" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/user:31021240" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:31021240" height="30" width="40" /></a>
+<a href="https://kaggle.com/mohsin109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mohsin109" height="30" width="40" /></a>
+<a href="https://fb.com/mohsin ali avesi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohsin ali avesi" height="30" width="40" /></a>
+<a href="https://instagram.com/mohsi_109" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohsi_109" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/tmng1q4m2x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="tmng1q4m2x" height="30" width="40" /></a>
 </p>
 
 

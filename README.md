@@ -152,10 +152,10 @@
 
 <!-- Buttons for Mail and Portfolio -->
 <div align="center">
-    <a href="cadetmohsan@gmail.com" target="_blank">
+    <a href="mailto:cadetmohsan@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Mail%20Me-%23EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Mail Me">
     </a>
-    <a href="[https://your-portfolio-link.com](https://github.com/mosin1223)" target="_blank">
+    <a href="https://github.com/mosin1223" target="_blank">
         <img src="https://img.shields.io/badge/Visit%20Portfolio-%23DB4437?style=flat-square&logo=google-chrome&logoColor=white" alt="Visit Portfolio">
     </a>
     <br/>
@@ -166,7 +166,9 @@
 <div align="center">
     <h3>Thanks for visiting! 👋</h3>
     <p>Feel free to star ⭐ some repositories if you find them interesting!</p>
-    <a href="[https://github.com/yourusernam](https://github.com/mosin1223?tab=repositories)" target="_blank">
+    <a href="https://github.com/mosin1223?tab=repositories" target="_blank">
         <img src="https://img.shields.io/badge/Explore%20My%20Repositories-%2304AA6D?style=flat-square&logo=github&logoColor=white" alt="Explore Repositories">
     </a>
 </div>
+
+

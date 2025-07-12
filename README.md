@@ -1,4 +1,4 @@
-![logo](https://github.com/mosin1223/mosin1223/blob/main/New-PNC-Animated-Banners.gif)
+![logo](https://github.com/mosin1223/mosin1223/blob/main/New-PNC-Animated-Banners.gi)
 
 <h1 align="center">
   Hi <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="40px" style="vertical-align:middle;"/> I'm Mohsin Ali

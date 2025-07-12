@@ -1,3 +1,5 @@
+![logo](https://github.com/mosin1223/mosin1223/blob/main/New-PNC-Animated-Banners.gif)
+
 <h1 align="center">Hi 👋, I'm Mohsin Ali</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
